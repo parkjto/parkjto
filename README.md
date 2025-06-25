@@ -42,6 +42,11 @@
 
 ### GitHub Stats & Top Languages
 
-![Junyeop's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjto&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjto&show_icons=true&bg_color=ffffffl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjto&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjto&layout=compact&bg_color=ffffff)
+
+
+
+
+
