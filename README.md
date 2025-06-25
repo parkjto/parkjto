@@ -44,7 +44,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjto&show_icons=true&bg_color=ffffffl)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjto&layout=compact&bg_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjto&layout=compact&bg_color=ffffff&langs_count=10)
+
 
 
 
