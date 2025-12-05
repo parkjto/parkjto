@@ -40,13 +40,7 @@
 ### Education
 - 🎓 인하공업전문대학 (Inha Technical College)
 
----
 
-### GitHub Stats & Top Languages
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjto&show_icons=true&bg_color=ffffffl)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkjto&layout=compact&bg_color=ffffff&langs_count=10)
 
 
 
